@@ -1,0 +1,100 @@
+{
+  "version": "6.0.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "water",
+      "points": [
+        [
+          1065.25,
+          1134.1249999999998
+        ],
+        [
+          2021.5,
+          3477.875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "sparkling water",
+      "points": [
+        [
+          1777.75,
+          252.8749999999999
+        ],
+        [
+          2609.0,
+          1984.1249999999998
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "sparkling water",
+      "points": [
+        [
+          1896.5,
+          1965.3749999999998
+        ],
+        [
+          2602.75,
+          3471.625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "sparkling water",
+      "points": [
+        [
+          2534.0,
+          1809.1249999999998
+        ],
+        [
+          3109.0,
+          3402.875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "sparkling water",
+      "points": [
+        [
+          3096.5,
+          1777.8749999999998
+        ],
+        [
+          3715.25,
+          3315.375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "DSC_3599.jpg",
+  "imageData": null,
+  "imageHeight": 3712,
+  "imageWidth": 5568
+}

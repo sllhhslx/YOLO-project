@@ -1,0 +1,64 @@
+{
+  "version": "6.0.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "water",
+      "points": [
+        [
+          3346.5,
+          540.3749999999999
+        ],
+        [
+          4421.5,
+          1859.1249999999998
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "water",
+      "points": [
+        [
+          1996.5,
+          259.1249999999999
+        ],
+        [
+          3302.75,
+          3465.375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "milk",
+      "points": [
+        [
+          3340.25,
+          1784.1249999999998
+        ],
+        [
+          4402.75,
+          3277.875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "DSC_3802.jpg",
+  "imageData": null,
+  "imageHeight": 3712,
+  "imageWidth": 5568
+}

@@ -1,0 +1,64 @@
+{
+  "version": "6.0.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "sparkling water",
+      "points": [
+        [
+          1534.0,
+          1421.6249999999998
+        ],
+        [
+          2302.75,
+          3071.625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "water",
+      "points": [
+        [
+          2521.5,
+          1959.1249999999998
+        ],
+        [
+          3352.75,
+          3165.375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "water",
+      "points": [
+        [
+          3465.25,
+          552.8749999999999
+        ],
+        [
+          4346.5,
+          3196.625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "DSC_3635.jpg",
+  "imageData": null,
+  "imageHeight": 3712,
+  "imageWidth": 5568
+}

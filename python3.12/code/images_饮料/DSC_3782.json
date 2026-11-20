@@ -1,0 +1,118 @@
+{
+  "version": "6.0.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "milk",
+      "points": [
+        [
+          4334.0,
+          1834.1249999999998
+        ],
+        [
+          5465.25,
+          3090.375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "sparkling water",
+      "points": [
+        [
+          2265.25,
+          871.6249999999999
+        ],
+        [
+          4152.75,
+          1509.1249999999998
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "sparkling water",
+      "points": [
+        [
+          2159.0,
+          1552.8749999999998
+        ],
+        [
+          2927.75,
+          3346.625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "water",
+      "points": [
+        [
+          1134.0,
+          990.3749999999999
+        ],
+        [
+          2309.0,
+          3521.625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "water",
+      "points": [
+        [
+          134.0,
+          1484.1249999999998
+        ],
+        [
+          1215.25,
+          2871.625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "water",
+      "points": [
+        [
+          3327.75,
+          1809.1249999999998
+        ],
+        [
+          4371.5,
+          3184.125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "DSC_3782.jpg",
+  "imageData": null,
+  "imageHeight": 3712,
+  "imageWidth": 5568
+}
