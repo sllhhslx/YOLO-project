@@ -1,0 +1,6 @@
+# YOLO segmentation dataset
+train: images/train
+val: images/val
+test: images/test
+nc: 3
+names: ["milk", "sparkling water", "water"]
